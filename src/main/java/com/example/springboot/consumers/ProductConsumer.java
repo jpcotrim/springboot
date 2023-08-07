@@ -1,6 +1,6 @@
 package com.example.springboot.consumers;
 
-import com.example.springboot.dtos.ProductRecordDto;
+import com.example.springboot.dtos.v1.ProductRecordDto;
 import com.example.springboot.models.ProductModel;
 import com.example.springboot.services.ProductService;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;

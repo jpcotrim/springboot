@@ -8,6 +8,7 @@ class SpringbootApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("App running!!");
 	}
 
 }
